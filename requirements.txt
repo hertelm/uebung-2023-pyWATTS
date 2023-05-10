@@ -10,7 +10,6 @@ attrs==23.1.0
 backcall==0.2.0
 beautifulsoup4==4.12.2
 bleach==6.0.0
-cached-propertygit 
 cachetools==5.3.0
 certifi==2023.5.7
 cffi==1.15.1
@@ -35,7 +34,7 @@ google-auth==2.17.3
 google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
 grpcio==1.54.0
-h5py 
+h5py==3.6.0
 hijri-converter==2.3.1
 holidays==0.24
 idna==3.4
@@ -77,7 +76,7 @@ nbformat==5.8.0
 nest-asyncio==1.5.6
 notebook==6.5.4
 notebook_shim==0.2.3
-numpy 
+numpy==1.23.2
 oauthlib==3.2.2
 opt-einsum==3.3.0
 packaging==23.1
